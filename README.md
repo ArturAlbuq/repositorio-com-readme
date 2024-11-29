@@ -1,6 +1,6 @@
 # Projeto com README
 
-Projeto de teste com um arquivo README 👾
+Projeto de teste com um arquivo README ✈
 
 ##  Tecnologias utilizadas
 
